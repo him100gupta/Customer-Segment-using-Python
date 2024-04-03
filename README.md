@@ -1,6 +1,6 @@
 # Customer-Segmentation-using-Python
 ## Project description: -
-In the "Customer Segmentation in Marketing with Python" project, harness real-world customer data for market segmentation. Delve into data preprocessing, exploratory analysis, feature engineering, and clustering techniques like k-means and hierarchical clustering. Gain insights to optimize marketing strategies and enhance customer engagement.
+Delve into real-world customer data to conduct market segmentation, essential for businesses aiming to grasp customer behavior and enhance marketing effectiveness. This project encompasses comprehensive data preprocessing, exploratory analysis, feature engineering, and the application of key clustering techniques like k-means and hierarchical clustering. Explore diverse customer behaviors to pinpoint distinct segments ripe for personalized marketing strategies.
 
 Tools used- Jupyter Notebook.
 
