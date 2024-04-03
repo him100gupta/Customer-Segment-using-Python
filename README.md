@@ -8,7 +8,4 @@ Libraries used: - Numpy, Pandas, Matplotlib, Seaborn, Sklearn and scipy
 
 Clustering techniques: - 
 + Hierarchical clustering.
-  ![image](https://github.com/him100gupta/Customer-Segment-using-Python/assets/29143253/e8e9050c-a46c-4c89-8358-ded67452553b)
-
 + K-Means clustering(WCSS & Elbow method).
-  ![image](https://github.com/him100gupta/Customer-Segment-using-Python/assets/29143253/98c0e7cb-2486-4a1d-aa17-d58fa8f93dfe)
