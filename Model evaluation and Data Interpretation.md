@@ -1,7 +1,6 @@
 # Model Evaluation
 ## Summary Table
-
-![image](https://github.com/him100gupta/Customer-Segment-using-Python/assets/29143253/5df06f81-f0b1-4332-99c4-5213abe35e32)
+![image](https://github.com/him100gupta/Customer-Segment-using-Python/assets/29143253/64242d01-129f-4f44-9b1a-504933741453)
 
 + Segment US-CA-UK-AU Multi-Channel: - This segment comprises the largest portion of customers, accounting for approximately 29% of the total customer base. The primary demographics of this segment are individuals from the USA, Canada, United Kingdom, and Australia. They have found the platform through various channels, including Google, Facebook, YouTube, LinkedIn, and word-of-mouth referrals from friends. Their level of engagement with the platform is moderate, and they rank second highest in terms of spending.
 + Segment LinkedIn Networkers: - This segment consists of customers who discovered the platform through LinkedIn and hail from various parts of the world. These customers are highly engaged with the platform while maintaining low spending habits
