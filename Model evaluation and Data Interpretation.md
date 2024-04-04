@@ -1,3 +1,4 @@
+# Model Evaluation
 ## Summary Table
 
 ![image](https://github.com/him100gupta/Customer-Segment-using-Python/assets/29143253/5df06f81-f0b1-4332-99c4-5213abe35e32)
@@ -10,3 +11,8 @@
 + Segment West European Multi-Channel: - These customers, hailing from Western Europe, demonstrate moderate engagement with the platform but exhibit the highest spending. They discovered the platform through various channels, including Google, Facebook, YouTube, LinkedIn, and word-of-mouth referrals from friends.
 + Segment Other: - This segment of customers boasts the second-highest level of engagement with the platform, coupled with moderate spending habits. While their method of discovering the platform remains unknown, they hail from various regions worldwide, with 51% of customers originating from the USA, Canada, United Kingdom, and Australia.
 + Segment Twitter Devotees: - This small group of customers discovered the platform via Twitter. They’re from all regions, with a majority from the rest of the world. They have the lowest engagement and low spending.
+
+# Data Interpretation
+Based on the results, it is suggested to implement a feasible marketing strategy.
+
+Segment: - 
