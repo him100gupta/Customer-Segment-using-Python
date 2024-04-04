@@ -12,3 +12,4 @@ Channel: - This is the channel through which the customer has learned about the 
           6 - Instagram
           7 - Friend
           8 - Other
+minutes_watched: - The number of minutes a student has watched since joining the program.
